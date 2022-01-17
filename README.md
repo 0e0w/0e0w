@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Security Researcher, and ...
 
-- 🔭 My personal website: [http://www.0e0w.com](http://www.0e0w.com)
+- 🔭 My personal website: [0e0w.com](http://www.0e0w.com)
 - 🌱 I’m currently learning Golang 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: ....
