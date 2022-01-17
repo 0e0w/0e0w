@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=0e0w.com&style=for-the-badge&url=http%3A%2F%2Fwww.0e0w.com)](http://www.0e0w.com)
 
-## I'm a Husband, Father, Security Researcher,and ...
+## I'm a Husband, Father, Security Researcher, and ...
 
 - 🔭 My personal website: [http://www.0e0w.com](http://www.0e0w.com)
 - 🌱 I’m currently learning everything 🤣
