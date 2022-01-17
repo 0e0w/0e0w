@@ -1,5 +1,3 @@
-# 0e0w
-
 ### Hi there, I'm 0e0w👋0 error(s),0 warning(s).
 
 [![Website](https://img.shields.io/website?label=0e0w.com&style=for-the-badge&url=http%3A%2F%2Fwww.0e0w.com)](http://www.0e0w.com)
