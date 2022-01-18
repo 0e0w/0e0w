@@ -5,7 +5,7 @@
 ## I'm a Husband, Father, Security Researcher, and ...
 
 - 🔭 My personal website: [0e0w.com](http://www.0e0w.com)
-- 🌱 I’m currently learning Golang 🤣
+- 🌱 I’m currently [LearnGolang](https://github.com/GoYL/LearnGolang) and [HackJava](https://github.com/HackJava/HackJava) .🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: ....
 
