@@ -6,7 +6,7 @@
 
 - 🔭 My personal website: [0e0w.com](http://www.0e0w.com)
 - 🌱 I’m currently [LearnGolang](https://github.com/LearnGolang) and [HackJava](https://github.com/HackJava) .🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Security Researcher.
 - 📫 How to reach me: [Git0e0w@163.com](mailto:Git0e0w@163.com)
 - ⚡ Fun fact: ....
 
