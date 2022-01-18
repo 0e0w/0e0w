@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: ....
 
+![https://github-readme-stats.vercel.app/api?username=0e0w](https://github-readme-stats.vercel.app/api?username=0e0w)
 
 <!--
 **0e0w/0e0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
