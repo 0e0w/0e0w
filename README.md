@@ -6,7 +6,7 @@
 
 - 🔭 My personal website: [0e0w.com](http://www.0e0w.com)
 - 🌱 I’m currently [HackJava](https://github.com/HackJava) and [LearnGolang](https://github.com/LearnGolang).
-- 😄 I am a member of the [Goqi](https://github.com/Goqi) Team.Reinventing the wheel.🤣
+- 😄 I’m a member of the [Goqi](https://github.com/Goqi) team.Reinventing the wheel.🤣
 - 👯 I’m looking to collaborate with other Security Researcher.
 - 📫 How to reach me: [Git0e0w@163.com](mailto:Git0e0w@163.com)
 - ⚡ Fun fact: ....
