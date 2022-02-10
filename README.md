@@ -4,6 +4,7 @@
 
 ## I'm a Husband, Father, Security Researcher, and ...
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0e0w" alt="https://github-readme-stats.vercel.app/api?username=0e0w" style="zoom:90%;" />	
 - 🔭 My personal website: [https://www.0e0w.com](https://www.0e0w.com)
 - 🌱 I’m currently focusing on [HackJava](https://github.com/HackJava) and [LearnGolang](https://github.com/LearnGolang)
 - 😄 I’m a member of the [Goqi](https://github.com/Goqi) team.Reinventing the wheel🤣
@@ -12,7 +13,6 @@
 - 📫 How to reach me: [MGUwd1RlYW1AZ21haWwuY29t](MGUwd1RlYW1AZ21haWwuY29t)
 - ⚡ Fun fact: ....
 
-<img src="https://github-readme-stats.vercel.app/api?username=0e0w" alt="https://github-readme-stats.vercel.app/api?username=0e0w" style="zoom:90%;" />	
 
 <!--
 **0e0w/0e0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
