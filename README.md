@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Security Researcher, and ...
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=0e0w" alt="https://github-readme-stats.vercel.app/api?username=0e0w" width="390" />	
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0e0w" alt="https://github-readme-stats.vercel.app/api?username=0e0w" width="395" />	
 
 - 🔭 My personal website: [https://www.0e0w.com](https://0e0w.com)
 - 🌱 I’m currently focusing on [HackJava](https://github.com/HackJava) and [LearnGolang](https://github.com/LearnGolang)
