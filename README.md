@@ -13,7 +13,6 @@
 - 😄 I’m a member of the [ASTTeam](https://github.com/ASTTeam).Keep Learning DevSecOps😄
 - 👯 I’m looking to collaborate with other Security Researcher
 - 📫 How to reach me: [MGUwd1RlYW1AZ21haWwuY29t](MGUwd1RlYW1AZ21haWwuY29t)
-- ⚡ Fun fact: ....
 
 
 <!--
