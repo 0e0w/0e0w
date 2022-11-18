@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=0e0w.com&style=for-the-badge&url=https%3A%2F%2F0e0w.com)](https://0e0w.com)
 
-## I'm a Husband, Father, Security Researcher, Go Developer, and ...
+## I'm a Husband, Father, Go Developer, Security Researcher, and ...
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=0e0w" alt="https://github-readme-stats.vercel.app/api?username=0e0w" width="393" />	
 
