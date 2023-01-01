@@ -1,4 +1,4 @@
-### Hi there, I'm 0e0w👋
+### Hi there, I'm 0e0w👋👋👋
 
 [![Website](https://img.shields.io/website?label=0e0w.com&style=for-the-badge&url=https%3A%2F%2F0e0w.com)](https://0e0w.com)
 
