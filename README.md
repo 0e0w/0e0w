@@ -7,7 +7,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=0e0w" alt="https://github-readme-stats.vercel.app/api?username=0e0w" width="393" />	
 
 - 🔭 My personal website: [https://www.0e0w.com](https://0e0w.com)
-- 🌱 I’m currently focusing on [Getshell](https://github.com/Getshell) and [HackJava](https://github.com/HackJava)
+- 🌱 I’m currently focusing on [Web3Hack](https://github.com/Web3Hack) !!!
 - 😄 I’m a member of the [Goqi](https://github.com/Goqi) team.Reinventing the wheel🤣
 - 😄 I’m a member of the [Getshell](https://github.com/Getshell).To be number one Hacker🤔
 - 😄 I’m a member of the [ASTTeam](https://github.com/ASTTeam).Keep Learning DevSecOps⚡
