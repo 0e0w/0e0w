@@ -1,6 +1,6 @@
 ### Hi there, I'm 0e0w👋👋👋
 
-[![Website](https://img.shields.io/website?label=0e0w.com&style=for-the-badge&url=https%3A%2F%2F0e0w.com)](https://0e0w.com)
+[![Website](https://img.shields.io/website?label=github.com/0e0w&style=for-the-badge&url=https://github.com/0e0w)](https://github.com/0e0w)
 
 ## I'm a Freedom Shape, Go Developer, Security Researcher, and ...
 
